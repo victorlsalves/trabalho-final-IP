@@ -1,0 +1,1 @@
+O projeto Final da disciplina consiste em um sistema de gerenciamento de investidores e investimentos sem interface gráfica. Foi implementado o CRUD de investidores e investimentos usando alocação dinâmica e E/S de arquivos.
